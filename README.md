@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32446602/README.md)
 # Open Modular Vehicle Architecture (OMVA)
 
 **Status:** Draft 0.1 — Request for Comment
